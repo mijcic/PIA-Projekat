@@ -1,8 +1,5 @@
 # Mountain Cabin Rental — Cabin Rental Web System
 
-## Tagline
-Self-service web platform for searching, booking and managing mountain cabins.
-
 ## Overview
 **Mountain Cabin Rental** is a web application that enables users to browse, search and reserve mountain cabins in Serbia. It supports multiple user roles with different permissions and tailored interfaces.
 
